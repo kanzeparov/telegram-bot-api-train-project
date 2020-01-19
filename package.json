@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot-api-train-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanzeparov/telegram-bot-api-train-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanzeparov/telegram-bot-api-train-project/issues"
+  },
+  "homepage": "https://github.com/kanzeparov/telegram-bot-api-train-project#readme",
+  "dependencies": {
+    "@types/rc": "^1.1.0",
+    "rc": "^1.2.8",
+    "telegraf": "^3.35.0",
+    "typescript": "^3.7.5"
+  }
+}
